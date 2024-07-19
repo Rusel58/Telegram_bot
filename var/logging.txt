@@ -1,0 +1,54 @@
+2024-03-19 17:26:00.699 +03:00 [INF] Start listening for @Cult_objects_bot.
+2024-03-19 17:26:02.647 +03:00 [INF] Received a '/start' message in chat 1138739866.
+2024-03-19 17:26:03.817 +03:00 [INF] Received a 'CSV' message in chat 1138739866.
+2024-03-19 17:26:17.591 +03:00 [INF] Received a '' message in chat 1138739866.
+2024-03-19 17:26:24.109 +03:00 [INF] Received a 'Отсортировать' message in chat 1138739866.
+2024-03-19 17:26:25.565 +03:00 [INF] Received a 'Сортировать в прямом порядке' message in chat 1138739866.
+2024-03-19 17:26:28.151 +03:00 [INF] Received a 'Скачать' message in chat 1138739866.
+2024-03-19 17:26:29.335 +03:00 [INF] Received a 'JSON' message in chat 1138739866.
+2024-03-19 17:26:32.421 +03:00 [INF] Bot is stopped!
+2024-03-21 21:46:12.178 +03:00 [INF] Start listening for @Cult_objects_bot.
+2024-03-21 21:46:12.353 +03:00 [INF] Received a 'CSV' message in chat 1138739866.
+2024-03-21 21:47:57.097 +03:00 [INF] Received a '' message in chat 1138739866.
+2024-03-21 21:48:00.551 +03:00 [INF] Received a 'CSV' message in chat 1138739866.
+2024-03-21 21:48:04.631 +03:00 [INF] Received a '' message in chat 1138739866.
+2024-03-21 21:48:15.346 +03:00 [INF] Received a '' message in chat 1138739866.
+2024-03-21 21:52:34.174 +03:00 [INF] Received a 'Произвести выборку' message in chat 1138739866.
+2024-03-21 21:52:38.983 +03:00 [INF] Received a 'SecurityStatus' message in chat 1138739866.
+2024-03-21 21:52:40.021 +03:00 [INF] Received a 'выявленный объект культурного наследия' message in chat 1138739866.
+2024-03-21 21:52:41.031 +03:00 [INF] Received a 'Скачать' message in chat 1138739866.
+2024-03-21 21:52:42.323 +03:00 [INF] Received a 'JSON' message in chat 1138739866.
+2024-03-21 21:52:43.728 +03:00 [INF] Received a 'Загрузить новый файл' message in chat 1138739866.
+2024-03-21 21:52:45.982 +03:00 [INF] Received a 'JSON' message in chat 1138739866.
+2024-03-21 21:52:57.635 +03:00 [INF] Received a '' message in chat 1138739866.
+2024-03-21 21:52:59.939 +03:00 [INF] Received a 'Произвести выборку' message in chat 1138739866.
+2024-03-21 21:53:00.775 +03:00 [INF] Received a 'SecurityStatus' message in chat 1138739866.
+2024-03-21 21:53:02.174 +03:00 [INF] Received a 'выявленный объект культурного наследия' message in chat 1138739866.
+2024-03-21 21:53:05.115 +03:00 [INF] Received a 'Произвести выборку' message in chat 1138739866.
+2024-03-21 21:53:07.102 +03:00 [INF] Received a 'ObjectType' message in chat 1138739866.
+2024-03-21 21:53:35.086 +03:00 [INF] Received a 'Объект археологии' message in chat 1138739866.
+2024-03-21 21:53:40.343 +03:00 [INF] Bot is stopped!
+2024-03-22 13:15:33.419 +03:00 [INF] Start listening for @Cult_objects_bot.
+2024-03-22 13:15:33.644 +03:00 [INF] Received a 'ррр' message in chat 1138739866.
+2024-03-22 13:15:33.903 +03:00 [INF] Received a 'лл' message in chat 1138739866.
+2024-03-22 13:15:55.924 +03:00 [INF] Received a 'Произвести выборку' message in chat 1138739866.
+2024-03-22 13:15:57.659 +03:00 [INF] Received a 'CSV' message in chat 1138739866.
+2024-03-22 13:16:09.435 +03:00 [INF] Received a '' message in chat 1138739866.
+2024-03-22 13:16:12.316 +03:00 [INF] Received a 'Отсортировать' message in chat 1138739866.
+2024-03-22 13:16:13.692 +03:00 [INF] Received a 'Сортировать в прямом порядке' message in chat 1138739866.
+2024-03-22 13:16:15.206 +03:00 [INF] Received a 'Скачать' message in chat 1138739866.
+2024-03-22 13:16:16.240 +03:00 [INF] Received a 'JSON' message in chat 1138739866.
+2024-03-22 13:16:20.395 +03:00 [INF] Bot is stopped!
+2024-03-22 16:52:47.020 +03:00 [INF] Start listening for @Cult_objects_bot.
+2024-03-22 16:52:47.310 +03:00 [INF] Received a 'h' message in chat 1138739866.
+2024-03-22 16:52:47.564 +03:00 [INF] Received a 's' message in chat 1138739866.
+2024-03-22 16:52:51.827 +03:00 [INF] Received a 'CSV' message in chat 1138739866.
+2024-03-22 16:53:34.366 +03:00 [INF] Received a '' message in chat 1138739866.
+2024-03-22 16:53:36.136 +03:00 [INF] Received a 'Скачать' message in chat 1138739866.
+2024-03-22 16:53:37.833 +03:00 [INF] Received a 'CSV' message in chat 1138739866.
+2024-03-22 16:54:02.403 +03:00 [INF] Received a 'Произвести выборку' message in chat 1138739866.
+2024-03-22 16:54:04.929 +03:00 [INF] Received a 'SecurityStatus' message in chat 1138739866.
+2024-03-22 16:54:06.652 +03:00 [INF] Received a 'объект культурного наследия' message in chat 1138739866.
+2024-03-22 16:54:08.045 +03:00 [INF] Received a 'Скачать' message in chat 1138739866.
+2024-03-22 16:54:09.131 +03:00 [INF] Received a 'CSV' message in chat 1138739866.
+2024-03-22 16:54:26.311 +03:00 [INF] Bot is stopped!
