@@ -1,0 +1,3912 @@
+﻿[
+  {
+    "AISID": "a70bba3e-ff9d-11e4-b126-005056806bb6",
+    "USRCHONumber": "772241374630006",
+    "ObjectNameOnDoc": "\"\"Курганы Марьино–Филимонки\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2606929494"
+  },
+  {
+    "AISID": "abed859e-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440677840006",
+    "ObjectNameOnDoc": "Матвеевское селище, XII-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608406604"
+  },
+  {
+    "AISID": "01a9eeb8-32ea-11e6-b786-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Аксиньино 4 (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407405"
+  },
+  {
+    "AISID": "029d59f6-1e2b-11e8-9e37-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Дьяково-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407406"
+  },
+  {
+    "AISID": "058e5ecc-faf9-11e5-bb62-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение 1 , XII-XIV вв. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407407"
+  },
+  {
+    "AISID": "064bae6b-d57b-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Батыбино-5 (XV-XVI вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407408"
+  },
+  {
+    "AISID": "082dbe1b-4795-11e8-ac6f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Городище Клоково",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407409"
+  },
+  {
+    "AISID": "124572d2-9caf-11e8-a167-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Культурный слой усадьбы Измалково (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407410"
+  },
+  {
+    "AISID": "146eb41d-3eb8-11e7-a3bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Дмитровка 1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407411"
+  },
+  {
+    "AISID": "14dc4dab-d3ee-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Сатино-Русское-6 (XV-XVI вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407412"
+  },
+  {
+    "AISID": "16891f4f-d57d-11e5-87bd-005056806bb6",
+    "USRCHONumber": "772341375350006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник Ерино 3\"\", XII–ХIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407413"
+  },
+  {
+    "AISID": "1743c801-33d6-11e6-b786-005056806bb6",
+    "USRCHONumber": "772241362880006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник Малинки\"\", XI-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407414"
+  },
+  {
+    "AISID": "1b9bd795-33db-11e6-b786-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Малинки (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407415"
+  },
+  {
+    "AISID": "1e43aa8b-c293-11e6-b401-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Кокошкино 2 (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407416"
+  },
+  {
+    "AISID": "2113a3aa-faf9-11e5-bb62-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение 2 (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407417"
+  },
+  {
+    "AISID": "23e4eb21-33d8-11e6-b786-005056806bb6",
+    "USRCHONumber": "772241374620006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник Чертаново 9\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407418"
+  },
+  {
+    "AISID": "2454d37f-33d9-11e6-b786-005056806bb6",
+    "USRCHONumber": "772341375280006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник Зюзино 5\"\", XII–ХIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407419"
+  },
+  {
+    "AISID": "27dfb0a8-33de-11e6-b786-005056806bb6",
+    "USRCHONumber": "772241374670006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник Узкое 3\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407420"
+  },
+  {
+    "AISID": "2a2c412b-c7e9-11e8-a167-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Черепово 1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407421"
+  },
+  {
+    "AISID": "31337336-d577-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Сосенки 2 (конец XIV-XVIII вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407422"
+  },
+  {
+    "AISID": "314802cc-e4ad-11e7-9c1f-005056806bb6",
+    "USRCHONumber": "772241356950006",
+    "ObjectNameOnDoc": "\"\"Каменоломня \"\"Богородское 1\"\", XVII–XIX вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407423"
+  },
+  {
+    "AISID": "3659a60d-4798-11e8-ac6f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Городище Красное",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407424"
+  },
+  {
+    "AISID": "38723465-d574-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Секерино 1 (XV-XVI вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407425"
+  },
+  {
+    "AISID": "3b91b21d-32d1-11e6-b786-005056806bb6",
+    "USRCHONumber": "772341375010006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник Узкое 4\"\", XII–ХIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407426"
+  },
+  {
+    "AISID": "3e5ec956-1e2c-11e8-9e37-005056806bb6",
+    "USRCHONumber": "772241374180006",
+    "ObjectNameOnDoc": "\"\"Селище \"\"Дьяково–2\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407427"
+  },
+  {
+    "AISID": "3eecf46c-faf9-11e5-bb62-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение 3, XII-XIV вв. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407428"
+  },
+  {
+    "AISID": "3f904c5b-e493-11e7-9c1f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Пучково 1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407429"
+  },
+  {
+    "AISID": "40ed6091-ff9e-11e4-b126-005056806bb6",
+    "USRCHONumber": "772341374850006",
+    "ObjectNameOnDoc": "\"\"Курганы \"\"Остафьево\"\", XII-XIII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407430"
+  },
+  {
+    "AISID": "4ab944d2-1d6f-11e8-9e37-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Культурный слой Садовой слободы, южная часть (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407431"
+  },
+  {
+    "AISID": "50eb48e6-d570-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Спас-Купля 3 (XVII-XIX вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407432"
+  },
+  {
+    "AISID": "583a5b88-c780-11e6-b401-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Кокошкино 1 (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407433"
+  },
+  {
+    "AISID": "597a44ba-faf9-11e5-bb62-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение 1, XII-XIII вв. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407434"
+  },
+  {
+    "AISID": "59c0d87e-1d6e-11e8-9e37-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Культурный слой Садовой слободы, северная часть (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407435"
+  },
+  {
+    "AISID": "59e965a8-9a03-11e8-a167-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Остатки подземных конструкций церкви Трех Святителей монастыря Всех Скорбящих радости. 1895-1910 гг. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407436"
+  },
+  {
+    "AISID": "5a5a5358-e49a-11e7-9c1f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Троицк 5\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407437"
+  },
+  {
+    "AISID": "60f09ec3-32f4-11e6-b786-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Аксиньино 3 (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407438"
+  },
+  {
+    "AISID": "61f01d8a-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"РАНИС-1\"\"",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407439"
+  },
+  {
+    "AISID": "61f01d8e-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Костишово-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407440"
+  },
+  {
+    "AISID": "61f01d92-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Троицкое-6\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407441"
+  },
+  {
+    "AISID": "61f01d98-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Ознобишино-5\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407442"
+  },
+  {
+    "AISID": "61f01db9-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772241374640006",
+    "ObjectNameOnDoc": "\"\"Курган \"\"Рязановский\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407443"
+  },
+  {
+    "AISID": "61f01dc1-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772341375260006",
+    "ObjectNameOnDoc": "\"\"Курганная группа \"\"Конаково–2\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407445"
+  },
+  {
+    "AISID": "61f01dca-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Песье-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407446"
+  },
+  {
+    "AISID": "61f01dd5-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Тупиково-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407447"
+  },
+  {
+    "AISID": "61f01ddf-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Сатино-Татарское-7\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407448"
+  },
+  {
+    "AISID": "61f01de7-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Ознобишино-4\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407449"
+  },
+  {
+    "AISID": "61f01dec-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Щапово-6\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407450"
+  },
+  {
+    "AISID": "61f01df0-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Алхимово-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407451"
+  },
+  {
+    "AISID": "61f01df2-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Роднево-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407453"
+  },
+  {
+    "AISID": "61f01df8-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Пенинское селище (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407454"
+  },
+  {
+    "AISID": "61f01dfc-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Сальково-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407455"
+  },
+  {
+    "AISID": "61f01e02-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Починковское\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407456"
+  },
+  {
+    "AISID": "61f01e04-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Щапово-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407457"
+  },
+  {
+    "AISID": "61f01e06-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Ознобишино-6\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407458"
+  },
+  {
+    "AISID": "61f01e08-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Щапово-3\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407459"
+  },
+  {
+    "AISID": "61f01e0a-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Сатино- Татарское-4\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407460"
+  },
+  {
+    "AISID": "61f01e0e-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Троицкое-5\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407461"
+  },
+  {
+    "AISID": "61f01e10-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Курганная группа \"\"Ознобишино-4\"\"",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407462"
+  },
+  {
+    "AISID": "61f01e18-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Щапово-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407463"
+  },
+  {
+    "AISID": "61f01e1c-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Конаковское\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407464"
+  },
+  {
+    "AISID": "61f01e20-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Шаганино-1а\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407465"
+  },
+  {
+    "AISID": "61f01e22-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Ликовский погост (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407466"
+  },
+  {
+    "AISID": "61f01e2b-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Остафьево-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407467"
+  },
+  {
+    "AISID": "61f01e2e-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Старогромово-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407468"
+  },
+  {
+    "AISID": "61f01e30-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Старое Сырово-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407469"
+  },
+  {
+    "AISID": "61f01e3a-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Ознобишино-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407470"
+  },
+  {
+    "AISID": "61f01e42-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Щапово-4\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407471"
+  },
+  {
+    "AISID": "61f01e45-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Сальковское\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407472"
+  },
+  {
+    "AISID": "61f01e58-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772341375360006",
+    "ObjectNameOnDoc": "\"\"Курганная группа \"\"Ознобишино–3\"\", XII–ХIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407474"
+  },
+  {
+    "AISID": "61f01e5a-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Остафьево-4\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407475"
+  },
+  {
+    "AISID": "61f01e5e-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Ознобишино-3\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407477"
+  },
+  {
+    "AISID": "61f01e64-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772241374660006",
+    "ObjectNameOnDoc": "\"\"Курганная группа \"\"Сатино–Татарское–1\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407478"
+  },
+  {
+    "AISID": "61f01e68-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Николо-Хованское-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407479"
+  },
+  {
+    "AISID": "61f01e6f-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Губкино-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407480"
+  },
+  {
+    "AISID": "61f01e77-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Городище \"\"Шаганино 1\"\"",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407481"
+  },
+  {
+    "AISID": "61f01e7c-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Ознобишино-11\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407482"
+  },
+  {
+    "AISID": "61f01e7e-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Ознобишино-8\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407483"
+  },
+  {
+    "AISID": "61f01e86-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Шаганино-4\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407484"
+  },
+  {
+    "AISID": "61f01e88-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772241362870006",
+    "ObjectNameOnDoc": "\"\"Курганная группа \"\"Рыбино-2\"\", XII-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407485"
+  },
+  {
+    "AISID": "61f01e8f-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Ознобишино-3а\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407486"
+  },
+  {
+    "AISID": "61f01e93-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Безобразовское\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407487"
+  },
+  {
+    "AISID": "61f01e9b-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Троицкое-3\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407488"
+  },
+  {
+    "AISID": "61f01e9d-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Пансионат \"\"Десна\"\". Курганы",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407489"
+  },
+  {
+    "AISID": "61f01e9f-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Юровское\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407490"
+  },
+  {
+    "AISID": "61f01ea1-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Столбово-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407491"
+  },
+  {
+    "AISID": "61f01ea4-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Троицкое-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407492"
+  },
+  {
+    "AISID": "61f01ea8-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Русино-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407493"
+  },
+  {
+    "AISID": "61f01eaa-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Земляной редут французской армии",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407494"
+  },
+  {
+    "AISID": "67f1ea51-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Ознобишинское\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407495"
+  },
+  {
+    "AISID": "67f1ea56-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772341374810006",
+    "ObjectNameOnDoc": "\"\"Курганная группа \"\"Конаково–1\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407496"
+  },
+  {
+    "AISID": "67f1ea5a-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Рязаново-3\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407497"
+  },
+  {
+    "AISID": "67f1ea70-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Молодцы-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407498"
+  },
+  {
+    "AISID": "67f1ea74-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Батыбино-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407499"
+  },
+  {
+    "AISID": "67f1ea7e-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Сатино- Татарское-5\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407500"
+  },
+  {
+    "AISID": "67f1ea84-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Подосинки-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407501"
+  },
+  {
+    "AISID": "67f1ea86-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Подосинки-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407502"
+  },
+  {
+    "AISID": "67f1ea88-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Сальково-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407503"
+  },
+  {
+    "AISID": "67f1ea95-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Красное\"\"",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407504"
+  },
+  {
+    "AISID": "67f1ea97-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772241392710006",
+    "ObjectNameOnDoc": "\"\"Курганная группа \"\"Шаганино-1\"\", XII-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407505"
+  },
+  {
+    "AISID": "67f1ea9e-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772241374650006",
+    "ObjectNameOnDoc": "\"\"Городище \"\"Роднево–1\"\", II в. до н.э. – I в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407506"
+  },
+  {
+    "AISID": "67f1eaa0-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Сатино- Татарское-1а\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407507"
+  },
+  {
+    "AISID": "67f1eaa4-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772341375000006",
+    "ObjectNameOnDoc": "\"\"Курганная группа \"\"Расторопово\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407508"
+  },
+  {
+    "AISID": "67f1eaa6-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Песье-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407509"
+  },
+  {
+    "AISID": "67f1eaaf-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Деснинское селище (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407510"
+  },
+  {
+    "AISID": "67f1eab7-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Раево-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407511"
+  },
+  {
+    "AISID": "67f1eab9-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772241362860006",
+    "ObjectNameOnDoc": "\"\"Курганы \"\"Рыбинские\"\", XII-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407512"
+  },
+  {
+    "AISID": "67f1eabb-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Сатино- Татарское-1б\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407513"
+  },
+  {
+    "AISID": "67f1eac5-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Щапово-5\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407514"
+  },
+  {
+    "AISID": "67f1eac9-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Курганы \"\"Ликово\"\"",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407515"
+  },
+  {
+    "AISID": "67f1eacd-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Софьино-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407516"
+  },
+  {
+    "AISID": "67f1ead5-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Ознобишино-9\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407517"
+  },
+  {
+    "AISID": "67f1eade-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Чириковское\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407518"
+  },
+  {
+    "AISID": "67f1eae4-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772241362850006",
+    "ObjectNameOnDoc": "\"\"Курганы \"\"Сальковские\"\", XII-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407519"
+  },
+  {
+    "AISID": "67f1eaf3-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Тарасово-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407520"
+  },
+  {
+    "AISID": "67f1eb07-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Батыбино-2\"\" (достопримечательное место))",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407521"
+  },
+  {
+    "AISID": "67f1eb09-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Сатино- Татарское-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407522"
+  },
+  {
+    "AISID": "67f1eb0d-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Юрово-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407523"
+  },
+  {
+    "AISID": "67f1eb0f-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Никульское-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407524"
+  },
+  {
+    "AISID": "67f1eb15-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772341365070006",
+    "ObjectNameOnDoc": "\"\"Городище \"\"Рязаново–1\"\", последняя четверть I тыс. до н.э. – начало I тыс. н. э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407525"
+  },
+  {
+    "AISID": "67f1eb17-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Каменоломни (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407526"
+  },
+  {
+    "AISID": "67f1eb21-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Русино-3\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407527"
+  },
+  {
+    "AISID": "67f1eb27-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "772341375540006",
+    "ObjectNameOnDoc": "\"\"Игнатовские курганы\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407528"
+  },
+  {
+    "AISID": "68356a5c-d3dc-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Рязаново-1 (XIII-XIV вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407530"
+  },
+  {
+    "AISID": "68feef6b-32ca-11e6-b786-005056806bb6",
+    "USRCHONumber": "772341375550006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник Узкое 2\"\", XII–ХIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407531"
+  },
+  {
+    "AISID": "6ac958d7-d576-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Сосенки 3 (XVII-XVIII в.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407532"
+  },
+  {
+    "AISID": "6dea2db3-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Лаптево\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407533"
+  },
+  {
+    "AISID": "6dea2dba-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Ознобишино-7\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407534"
+  },
+  {
+    "AISID": "6dea2dbe-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Ознобишино-10\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407535"
+  },
+  {
+    "AISID": "6dea2dc3-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Батыбино-3\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407536"
+  },
+  {
+    "AISID": "6dea2dc5-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Кнутовские курганы",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407537"
+  },
+  {
+    "AISID": "6dea2dd2-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Русино-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407538"
+  },
+  {
+    "AISID": "6dea2dd4-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Сатино-Татарское-6\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407539"
+  },
+  {
+    "AISID": "6dea2ddd-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "771741200490006",
+    "ObjectNameOnDoc": "Родневское городище (летописный город Перемышль Московского княжества), XII-XVI вв. н.э",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407540"
+  },
+  {
+    "AISID": "6dea2de7-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Студенцы-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407541"
+  },
+  {
+    "AISID": "6dea2de9-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Троицкое-4\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407542"
+  },
+  {
+    "AISID": "6dea2dee-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Ознобишино-4а\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407543"
+  },
+  {
+    "AISID": "6dea2df4-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Костишово-3\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407544"
+  },
+  {
+    "AISID": "6dea2df8-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Остафьево-1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407545"
+  },
+  {
+    "AISID": "6dea2dfa-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Троицкое\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407546"
+  },
+  {
+    "AISID": "6dea2dfc-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Костишово-2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407547"
+  },
+  {
+    "AISID": "6dea2e04-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение \"\"Остафьево-3\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407548"
+  },
+  {
+    "AISID": "6dea2e0d-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Курганы \"\"Ознобишинские\"\" (курганная группа \"\"Ознобишино-1\"\")",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407549"
+  },
+  {
+    "AISID": "6e601aa9-d676-11e6-809a-005056806bb6",
+    "USRCHONumber": "772341374860006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник Нескучный сад–1\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407550"
+  },
+  {
+    "AISID": "712e821d-d57c-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Круча-4 (XVI-XVIII вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407551"
+  },
+  {
+    "AISID": "72b03010-d57d-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Круча 3 (XIV-XV вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407552"
+  },
+  {
+    "AISID": "7aca93a7-33d4-11e6-b786-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Курганный могильник Ясенево 1",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407553"
+  },
+  {
+    "AISID": "7b0dce94-1d71-11e8-9e37-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Культурный слой \"\"Усадьбы Заболотье\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407554"
+  },
+  {
+    "AISID": "7fe9cda0-faf9-11e5-bb62-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище, древнерусское время (13-17 вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407555"
+  },
+  {
+    "AISID": "80d5e2d8-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984570006",
+    "ObjectNameOnDoc": "Село Дорогомилово (место древнего поселения с зоной культурного слоя), XV-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407556"
+  },
+  {
+    "AISID": "80d5e2e9-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981810006",
+    "ObjectNameOnDoc": "Территория культурного слоя Новоспасского монастыря, XV-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407557"
+  },
+  {
+    "AISID": "80d5e2fc-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835270006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Синичкиной слободы\"\", XVII - 1-я четв. XVIII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407558"
+  },
+  {
+    "AISID": "80d5e336-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Мельничной слободы\"\", XVII в. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407559"
+  },
+  {
+    "AISID": "80d5e382-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981870006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Хамовной слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407561"
+  },
+  {
+    "AISID": "80d5e3b1-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835220006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Рогожской ямской слободы\"\", кон. XVI-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407562"
+  },
+  {
+    "AISID": "80d5e3cd-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198540006",
+    "ObjectNameOnDoc": "\"\"Волоколамский тракт у дер. Пенягино\"\", XIV–XIX вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407563"
+  },
+  {
+    "AISID": "80d5e3cf-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984610006",
+    "ObjectNameOnDoc": "Село Преображенское (место древнего поселения с зоной культурного слоя), XVI - н. XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407564"
+  },
+  {
+    "AISID": "80d5e3d1-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Крестообразный корпус, 1779-1794 гг.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407565"
+  },
+  {
+    "AISID": "80d5e3e2-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440677250006",
+    "ObjectNameOnDoc": "Село Крылатское (место древнего поселения с зоной культурного слоя), XV-XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407566"
+  },
+  {
+    "AISID": "80d5e3ee-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440657230006",
+    "ObjectNameOnDoc": "Теплостанские курганы, XII-XIII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407567"
+  },
+  {
+    "AISID": "80d5e45d-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771740988270006",
+    "ObjectNameOnDoc": "Остатки конструкций Воскресенского моста, XVII-XVIII вв. н. э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407568"
+  },
+  {
+    "AISID": "80d5e4ee-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441213080006",
+    "ObjectNameOnDoc": "Остатки Сетуньского кирпичного завода, XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407569"
+  },
+  {
+    "AISID": "80d5e54a-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771640678500006",
+    "ObjectNameOnDoc": "Дьяковское городище",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407570"
+  },
+  {
+    "AISID": "8226b9cb-d57f-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Сатино-Русское4 (XIII-XVII вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407571"
+  },
+  {
+    "AISID": "842f0ce4-eae3-11e7-9c1f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Курганный могильник \"\"Малое Голубино-1\"\", XI-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407572"
+  },
+  {
+    "AISID": "85687887-d57a-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Сатино-Русское-7 (XIV-XV вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407573"
+  },
+  {
+    "AISID": "86dc74c8-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441200360006",
+    "ObjectNameOnDoc": "\"\"Второе Филянское селище\"\", VII–XII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407574"
+  },
+  {
+    "AISID": "86dc74d2-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198500006",
+    "ObjectNameOnDoc": "2-й Пенягинский курганный могильник, XII-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407575"
+  },
+  {
+    "AISID": "86dc75fd-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Домик садовника, 1775-1880-е гг.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407576"
+  },
+  {
+    "AISID": "86dc7741-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198400006",
+    "ObjectNameOnDoc": "\"\"1–е Митинское селище\"\", XII–XIII, XVI вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407577"
+  },
+  {
+    "AISID": "86dc7746-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771640658110026",
+    "ObjectNameOnDoc": "\"\"Царицынские курганы, (группы 2, 3, 4, 5, 6), XI – XIII вв. н.э.\"\" - \"\"Царицынские курганы. Группа № 3\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407578"
+  },
+  {
+    "AISID": "89652d60-1e26-11e8-9e37-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Курганный могильник \"\"Долгопрудная\"\"",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407579"
+  },
+  {
+    "AISID": "8ce305b8-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198410006",
+    "ObjectNameOnDoc": "Трасса древнего волока, от р. Москвы до Пятницкого ш., I тыс. н.э. - XIII в.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407580"
+  },
+  {
+    "AISID": "8ce305e3-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984480006",
+    "ObjectNameOnDoc": "Село Елох (Елохово) (место древнего поселения с зоной культурного слоя), XIV-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407581"
+  },
+  {
+    "AISID": "8ce30619-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835120006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Алексеевской слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407582"
+  },
+  {
+    "AISID": "8ce3067c-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198340006",
+    "ObjectNameOnDoc": "2-е Спас-Тушинское городище, VII в. до н.э.- VI в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407583"
+  },
+  {
+    "AISID": "8ce306a0-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441211620006",
+    "ObjectNameOnDoc": "Остатки укреплений \"\"Белого города\"\", 2 пол. XVI в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407584"
+  },
+  {
+    "AISID": "8ce306a2-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Котельной слободы\"\" XVI-XVII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407585"
+  },
+  {
+    "AISID": "8ce306ab-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835200006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Новодевичьей слободы\"\", XVI-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407587"
+  },
+  {
+    "AISID": "8ce306fb-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771741198570006",
+    "ObjectNameOnDoc": "\"\"Братеевская курганная группа (24 насыпи)\"\", XII век",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407588"
+  },
+  {
+    "AISID": "8ce3074a-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835250006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Села Напрудного\"\", XIV-XVI вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407589"
+  },
+  {
+    "AISID": "8ce3076d-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Грот на Глухой дорожке, XIX в.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407590"
+  },
+  {
+    "AISID": "8ce30777-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198490006",
+    "ObjectNameOnDoc": "1-й Пенягинский курганный могильник, XII-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407591"
+  },
+  {
+    "AISID": "8ce30790-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771741198300006",
+    "ObjectNameOnDoc": "Царицынские курганы. Группа № 1, XI-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407592"
+  },
+  {
+    "AISID": "8ce30795-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984590006",
+    "ObjectNameOnDoc": "Село Кудрино (место древнего поселения с зоной культурного слоя), XIII-XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407593"
+  },
+  {
+    "AISID": "8ce307ef-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440668760006",
+    "ObjectNameOnDoc": "Село Воробьево (место древнего поселения с зоной культурного слоя), XV-XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407594"
+  },
+  {
+    "AISID": "8ce307f3-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198450006",
+    "ObjectNameOnDoc": "\"\"5–е Спас–Тушинское селище\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407595"
+  },
+  {
+    "AISID": "8ce3082d-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981520006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Огородной слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407596"
+  },
+  {
+    "AISID": "8ce308b3-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981840006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Троицкой слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407597"
+  },
+  {
+    "AISID": "8ce308e6-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440678520006",
+    "ObjectNameOnDoc": "Курганная группа, XII-XIV вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407598"
+  },
+  {
+    "AISID": "8d27bffe-3eb3-11e7-a3bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Староникольское 1",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407599"
+  },
+  {
+    "AISID": "8f38e7d8-faf8-11e5-bb62-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Потапово 1 (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407600"
+  },
+  {
+    "AISID": "93194634-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198360006",
+    "ObjectNameOnDoc": "3-е Митинское селище, XIII-XV вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407601"
+  },
+  {
+    "AISID": "9319467e-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440988200006",
+    "ObjectNameOnDoc": "\"\"Городище \"\"Андроньево\"\", XIV–XVII вв. н.э.\"\"",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407602"
+  },
+  {
+    "AISID": "931946d5-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198430006",
+    "ObjectNameOnDoc": "Спас-Тушинское Дьяковское селище на р.Барышихе, I тыс. до н.э.- I тыс. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407603"
+  },
+  {
+    "AISID": "9319471d-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Селища в Нескучном саду\"\", XII-XIV вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407605"
+  },
+  {
+    "AISID": "93194755-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981630006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Толмацкой слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407606"
+  },
+  {
+    "AISID": "93194780-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198330006",
+    "ObjectNameOnDoc": "Пенягинское селище, I тыс. до н.э.- I тыс. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407607"
+  },
+  {
+    "AISID": "9319478b-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440677900006",
+    "ObjectNameOnDoc": "\"\"Аминьевское селище\"\", XIV–XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407608"
+  },
+  {
+    "AISID": "931947ee-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981610006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Серебрянической слободы\"\", XVI-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407609"
+  },
+  {
+    "AISID": "9319487e-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441212600006",
+    "ObjectNameOnDoc": "Остатки конструкций Измайловского стекольного завода, 1-я пол. XVIII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407610"
+  },
+  {
+    "AISID": "931948b5-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771640635720006",
+    "ObjectNameOnDoc": "\"\"1–й Коньковский курганный могильник, XII–XIII вв. н.э.\"\"",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407611"
+  },
+  {
+    "AISID": "931948d1-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771640635730006",
+    "ObjectNameOnDoc": "2-й Коньковский курганный могильник",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407612"
+  },
+  {
+    "AISID": "93194965-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198580006",
+    "ObjectNameOnDoc": "Курганы, XII-XIII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407613"
+  },
+  {
+    "AISID": "93194986-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984620006",
+    "ObjectNameOnDoc": "Село Воронцово (место древнего поселения), XIV-XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407614"
+  },
+  {
+    "AISID": "931949ad-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981430006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Звонарской слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407615"
+  },
+  {
+    "AISID": "960c8b01-d578-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Шарапово 1 (XVII-XVIII вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407616"
+  },
+  {
+    "AISID": "963dbc9a-c290-11e6-b401-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Барыши 1 (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407617"
+  },
+  {
+    "AISID": "9975acef-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771640756870006",
+    "ObjectNameOnDoc": "Селище 1-ое у Ленинских гор (нижнее)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407618"
+  },
+  {
+    "AISID": "9975ad23-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Старой Кузнецкой слободы\"\", XV-XVI вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407619"
+  },
+  {
+    "AISID": "9975ad46-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440677260006",
+    "ObjectNameOnDoc": "Село Всехсвятское (место древнего поселения с зоной культурного слоя), XV-XVIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407620"
+  },
+  {
+    "AISID": "9975ad8f-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441200390006",
+    "ObjectNameOnDoc": "\"\"Алешкинское селище\"\", раннежелезный век I–III вв. н.э., средневековье, XII–XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407621"
+  },
+  {
+    "AISID": "9975adb5-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Кошельной слободы\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407622"
+  },
+  {
+    "AISID": "9975adf3-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Каменщиковой слободы\"\" XVI-XVII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407623"
+  },
+  {
+    "AISID": "9975ae48-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981540006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Печатной слободы\"\", XVI-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407624"
+  },
+  {
+    "AISID": "9975ae7c-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771740981530006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Бронной слободы\"\", XV-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407625"
+  },
+  {
+    "AISID": "9975aeeb-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981240006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Гранатного двора\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407626"
+  },
+  {
+    "AISID": "9975af24-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440677230006",
+    "ObjectNameOnDoc": "Селище Троицкое-Голенищево (место древного поселения с зоной культурного слоя), XV-XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407627"
+  },
+  {
+    "AISID": "9975af27-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198550006",
+    "ObjectNameOnDoc": "Ореховские курганы, XI-XIII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407628"
+  },
+  {
+    "AISID": "9975af44-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Симоновой слободы\"\" XIV-XVII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407629"
+  },
+  {
+    "AISID": "9ae14b03-32ef-11e6-b786-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Курганный могильник Узкое 5",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407630"
+  },
+  {
+    "AISID": "9bac53a5-d572-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Сатино-Русское-3 (XIII-XIV вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407631"
+  },
+  {
+    "AISID": "9beb234d-d64b-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Сатино-Татарское 2 (XIII-XVIII вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407632"
+  },
+  {
+    "AISID": "9fbc9de0-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981420006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Иконной слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407633"
+  },
+  {
+    "AISID": "9fbc9e06-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198420006",
+    "ObjectNameOnDoc": "2-е Спас-Тушинское селище, XII-XVI вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407635"
+  },
+  {
+    "AISID": "9fbc9e2e-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Села Хвостово\"\" XIV-XVII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407636"
+  },
+  {
+    "AISID": "9fbc9e52-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771640658110036",
+    "ObjectNameOnDoc": "\"\"Царицынские курганы, (группы 2, 3, 4, 5, 6), XI – XIII вв. н.э.\"\" - \"\"Царицынские курганы. Группа № 4\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407637"
+  },
+  {
+    "AISID": "9fbc9ef8-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Стрелецкой слободы в \"\"Сухареве\"\", XVII в. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407638"
+  },
+  {
+    "AISID": "9fbc9f1f-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981490006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Басманной слободы\"\", XVI-XVII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407639"
+  },
+  {
+    "AISID": "9fbc9f38-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Гончарной слободы\"\", XV-XVIII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407640"
+  },
+  {
+    "AISID": "9fbc9f4a-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Капитанской слободы\"\", XVII-XVIII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407641"
+  },
+  {
+    "AISID": "9fbc9f4d-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Мясницкой слободы\"\" XVI-XVIII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407642"
+  },
+  {
+    "AISID": "9fbc9f86-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Шестигранный корпус, 1779-1794 гг.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407643"
+  },
+  {
+    "AISID": "9fbc9f9c-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198370006",
+    "ObjectNameOnDoc": "\"\"1–й Митинский курганный могильник \"\"Великая могила\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407644"
+  },
+  {
+    "AISID": "9fbc9fa2-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984520006",
+    "ObjectNameOnDoc": "Село Ваганьково (место древнего поселения с зоной культурного слоя), XV-XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407645"
+  },
+  {
+    "AISID": "9fbc9fcf-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя Новодевичьего монастыря, 1524-1525 гг. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407646"
+  },
+  {
+    "AISID": "a1d1ed89-d571-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Спас-Купля 1 (XIII-XVIII вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407647"
+  },
+  {
+    "AISID": "a5e95458-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Страстного монастыря\"\", XVII в. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407648"
+  },
+  {
+    "AISID": "a5e954b3-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981620006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Татарской слободы\"\", XIV-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407649"
+  },
+  {
+    "AISID": "a5e954e2-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771741200440006",
+    "ObjectNameOnDoc": "\"\"Братеевское селище\"\", XII век",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407650"
+  },
+  {
+    "AISID": "a5e954f4-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Крымский двор\"\" XVI-XVII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407651"
+  },
+  {
+    "AISID": "a5e9555f-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835210006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Переяславской слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407652"
+  },
+  {
+    "AISID": "a5e9559c-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198310006",
+    "ObjectNameOnDoc": "Спас-Тушинский Фатьяновский могильник, II тыс. до н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407653"
+  },
+  {
+    "AISID": "a5e955af-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771640658110016",
+    "ObjectNameOnDoc": "\"\"Царицынские курганы, (группы 2, 3, 4, 5, 6), XI – XIII вв. н.э.\"\" - \"\"Царицынские курганы. Группа № 2\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407654"
+  },
+  {
+    "AISID": "a5e955cf-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981580006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Пушкарской слободы\"\", XVII в.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407655"
+  },
+  {
+    "AISID": "a5e95647-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981510006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Бережковской слободы\"\", XVI-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407656"
+  },
+  {
+    "AISID": "a5e95654-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981820006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Кузнецкой новой слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407657"
+  },
+  {
+    "AISID": "a5e956a7-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771741198590016",
+    "ObjectNameOnDoc": "Село Спас, XVI-XIX вв. - \"\"1–е Спас–Тушинское селище\"\", XIV–XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407658"
+  },
+  {
+    "AISID": "a5e956b6-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981800006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Конюшенной слободы\"\", XVI-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407659"
+  },
+  {
+    "AISID": "a64e122b-d3ea-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Юрово 2 (XV-XVI вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407660"
+  },
+  {
+    "AISID": "a93cc46e-e496-11e7-9c1f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Троицк 3\"\" (село Богородское)\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407661"
+  },
+  {
+    "AISID": "abed837e-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441196460006",
+    "ObjectNameOnDoc": "Культурный слой \"\"Земляного города\"\", (Скородома), XVI-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407662"
+  },
+  {
+    "AISID": "abed83a1-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835080006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Греческой слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407663"
+  },
+  {
+    "AISID": "abed83fb-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Обыденское городище\"\", XI-XIII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407665"
+  },
+  {
+    "AISID": "abed83fd-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981440006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Слободы Монетчики\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407666"
+  },
+  {
+    "AISID": "abed8415-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835260006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Семеновской слободы\"\", XVII-XVIII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407667"
+  },
+  {
+    "AISID": "abed84aa-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198390006",
+    "ObjectNameOnDoc": "\"\"3–й Спас–Тушинский курганный могильник\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407668"
+  },
+  {
+    "AISID": "abed8519-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981750006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Кадашевской слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407669"
+  },
+  {
+    "AISID": "abed8524-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198480006",
+    "ObjectNameOnDoc": "\"\"1–е Пенягинское селище\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407670"
+  },
+  {
+    "AISID": "abed8540-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441200480006",
+    "ObjectNameOnDoc": "Сетуньское городище I-III вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407672"
+  },
+  {
+    "AISID": "abed857a-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984540006",
+    "ObjectNameOnDoc": "Село Подкопаево (место древнего поселения), XV-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407673"
+  },
+  {
+    "AISID": "abed8590-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771741198560006",
+    "ObjectNameOnDoc": "\"\"1–й и 2–й Спас–Тушинские курганы–могильники\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608407674"
+  },
+  {
+    "AISID": "abed85ea-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Денежной слободы\"\" XVI-XVII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623715"
+  },
+  {
+    "AISID": "ac817f20-c7ea-11e8-a167-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Соколиная гора 1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623716"
+  },
+  {
+    "AISID": "af18f98f-e4af-11e7-9c1f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Ботаково 1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623717"
+  },
+  {
+    "AISID": "af594ba5-d569-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Дмитрово 1 (XVI-XVII вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623718"
+  },
+  {
+    "AISID": "b19510bc-8e56-11e7-9b3e-005056806bb6",
+    "USRCHONumber": "772241374680006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник \"\"Лосиный остров–2\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623719"
+  },
+  {
+    "AISID": "b1c82526-7b80-11e7-8ad1-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Кузовлево 2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623720"
+  },
+  {
+    "AISID": "b249eb05-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Солодяники слободы\"\" XV-XVI вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623721"
+  },
+  {
+    "AISID": "b249eb29-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198530006",
+    "ObjectNameOnDoc": "\"\"4–е Спас–Тушинское селище\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623722"
+  },
+  {
+    "AISID": "b249eb5c-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198510006",
+    "ObjectNameOnDoc": "\"\"3–е Спас–Тушинское селище\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623724"
+  },
+  {
+    "AISID": "b249ec0f-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441196450006",
+    "ObjectNameOnDoc": "Поселение домонгольского периода на 1-м Спас-Тушинском городище, XI-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623725"
+  },
+  {
+    "AISID": "b580db07-d4ae-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Романцево 1 (XV-XVI вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623726"
+  },
+  {
+    "AISID": "b58e48fe-123c-11e8-9c1f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Сад при Государевом дворе, северная часть (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623727"
+  },
+  {
+    "AISID": "b6074eaa-3eb8-11e7-a3bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Горнево 1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623729"
+  },
+  {
+    "AISID": "b76a0c98-1e2c-11e8-9e37-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Культурный слой села Дьяково с некрополем у церкви Усекновения главы Иоанна Предтечи (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623731"
+  },
+  {
+    "AISID": "b8e6af5a-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981410006",
+    "ObjectNameOnDoc": "Территория культурного слоя Рождественского монастыря, XIV-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623732"
+  },
+  {
+    "AISID": "b8e6af5c-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440655730006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Села Калитниково\"\", XV-XVI вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623733"
+  },
+  {
+    "AISID": "b8e6af89-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771741214710016",
+    "ObjectNameOnDoc": "Дер. Пенягино. XVI-XIX вв. - \"\"2–е Пенягинское селище\"\", XV–XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623734"
+  },
+  {
+    "AISID": "b8e6afd3-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981650006",
+    "ObjectNameOnDoc": "Территория культурного слоя и подземные конструкции \"\"Кузнецкого моста\"\", XVI-XVIII вв. н.э.\"\"",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623735"
+  },
+  {
+    "AISID": "b8e6b03b-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981640006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Крутицкого подворья\"\", XIII-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623737"
+  },
+  {
+    "AISID": "b8e6b074-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981730006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Ильинской слободы\"\", XVI в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623738"
+  },
+  {
+    "AISID": "b8e6b092-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835240006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Садовничьей слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623739"
+  },
+  {
+    "AISID": "b8e6b097-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440678480006",
+    "ObjectNameOnDoc": "\"\"Городище Капотня\"\", кон. 1–го тысячелетия до н.э. – нач. 1–го тысячелетия н.э., XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623740"
+  },
+  {
+    "AISID": "b8e6b0fc-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198350006",
+    "ObjectNameOnDoc": "\"\"6–е Спас–Тушинское селище\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623741"
+  },
+  {
+    "AISID": "be5b9a06-e495-11e7-9c1f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Троицк 2\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623742"
+  },
+  {
+    "AISID": "bf0aa968-d576-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Сосенки 1 (XIV-XVIII вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623743"
+  },
+  {
+    "AISID": "bf21b4dd-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440678490006",
+    "ObjectNameOnDoc": "Деревлевские курганы, XI-XIII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623744"
+  },
+  {
+    "AISID": "bf21b54d-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981460006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Слободы Наливки\"\", XVI в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623745"
+  },
+  {
+    "AISID": "bf21b589-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Панкратьевской слободы\"\", XVI-XVII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623746"
+  },
+  {
+    "AISID": "bf21b5ed-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441200250006",
+    "ObjectNameOnDoc": "Культурный слой \"\"Белого города\"\", XIV-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623747"
+  },
+  {
+    "AISID": "bf21b657-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771640658110046",
+    "ObjectNameOnDoc": "\"\"Царицынские курганы, (группы 2, 3, 4, 5, 6), XI – XIII вв. н.э.\"\" - \"\"Царицынские курганы. Группа № 5\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623748"
+  },
+  {
+    "AISID": "bf2f7ee0-d4ac-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Батыбино 4 (XVI-XVIII вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623749"
+  },
+  {
+    "AISID": "c5a90583-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198440006",
+    "ObjectNameOnDoc": "\"\"1–е Спас–Тушинское городище\"\", VII в. до н.э. – VI в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623750"
+  },
+  {
+    "AISID": "c5a905e0-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835140006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Воротниковской новой слободы\"\", 2-я пол. XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623751"
+  },
+  {
+    "AISID": "c5a9063f-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Село Колычево\"\", XV-XVII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623752"
+  },
+  {
+    "AISID": "c5a90669-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981590006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Садовнических слобод\"\", XVI-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623753"
+  },
+  {
+    "AISID": "c5a90698-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835190006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Новинской слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623754"
+  },
+  {
+    "AISID": "c6ea2b5c-e494-11e7-9c1f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Троицк 1\"\" (село Троицкое) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623755"
+  },
+  {
+    "AISID": "c93d4d12-6e38-11e7-8ad1-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Кузовлево 1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623756"
+  },
+  {
+    "AISID": "cbe67224-123d-11e8-9c1f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Культурный слой Государева двора (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623757"
+  },
+  {
+    "AISID": "cbfe4400-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440678510006",
+    "ObjectNameOnDoc": "Кунцевское городище, ранний железный век",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623758"
+  },
+  {
+    "AISID": "cbfe443a-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984580006",
+    "ObjectNameOnDoc": "Красное село (место древнего поселения с зоной культурного слоя), XV-XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623759"
+  },
+  {
+    "AISID": "cbfe443c-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Новоспасской слободы\"\", XVII-XVIII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623760"
+  },
+  {
+    "AISID": "cbfe4449-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981710006",
+    "ObjectNameOnDoc": "Территория культурного слоя Донского монастыря, кон. XVI-XIX вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623761"
+  },
+  {
+    "AISID": "cbfe444b-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771640658110056",
+    "ObjectNameOnDoc": "\"\"Царицынские курганы, (группы 2, 3, 4, 5, 6), XI – XIII вв. н.э.\"\" - \"\"Царицынские курганы. Группа № 6\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623762"
+  },
+  {
+    "AISID": "cbfe449e-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Оружейной слободы\"\", XVII в. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623763"
+  },
+  {
+    "AISID": "cbfe44cf-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198460006",
+    "ObjectNameOnDoc": "Спасский на Всходне монастырь, XIV-XVI вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623764"
+  },
+  {
+    "AISID": "cc5ba352-1d6c-11e8-9e37-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Культурный слой села Коломенское (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623765"
+  },
+  {
+    "AISID": "cd64129c-cbb6-11e7-9b3e-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Культурный слой в границах города Москвы XVIII в. (Камер-Коллежского вала) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623767"
+  },
+  {
+    "AISID": "cd7d87ad-33de-11e6-b786-005056806bb6",
+    "USRCHONumber": "772341374840006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник Зюзино 6\"\", XII–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623768"
+  },
+  {
+    "AISID": "d0e2fc8b-d4ad-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Алхимово 1 (XII-XIV вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623769"
+  },
+  {
+    "AISID": "d25d0d23-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835160006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Донской слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623770"
+  },
+  {
+    "AISID": "d25d0d5e-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981660006",
+    "ObjectNameOnDoc": "Территория культурного слоя Даниловского монастыря, XIII-XX вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623772"
+  },
+  {
+    "AISID": "d25d0d99-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771741214710036",
+    "ObjectNameOnDoc": "Дер. Пенягино. XVI-XIX вв. - \"\"Пруд–копань южный\"\", XV–XIX вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623773"
+  },
+  {
+    "AISID": "d25d0d9c-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198520006",
+    "ObjectNameOnDoc": "\"\"4–е Митинское селище\"\", XII–XVI вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623774"
+  },
+  {
+    "AISID": "d5a8e983-a184-11e6-b401-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Мосрентген. Троицкое\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623777"
+  },
+  {
+    "AISID": "d6b9fd25-d64f-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Сатино-Русское-5 (XIII-XVI вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623778"
+  },
+  {
+    "AISID": "d851d316-e498-11e7-9c1f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Троицк 4\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623779"
+  },
+  {
+    "AISID": "d8bfa5c0-d575-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Сатино-Татарское 3 (XIV, XVII-XVIII вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623780"
+  },
+  {
+    "AISID": "d8ce04a7-a672-11e6-b401-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Мосрентген. Дудкино\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623781"
+  },
+  {
+    "AISID": "d90ce4f9-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Земляная пирамида, XVII-XVIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623782"
+  },
+  {
+    "AISID": "d90ce4fc-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771741214710026",
+    "ObjectNameOnDoc": "Дер. Пенягино. XVI-XIX вв. - \"\"Пруд–копань северный\"\", XV–XIX вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623783"
+  },
+  {
+    "AISID": "d90ce525-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835150006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Даниловской слободы\"\", XVI-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623784"
+  },
+  {
+    "AISID": "d90ce55e-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Водосток, XVIII в.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623785"
+  },
+  {
+    "AISID": "d90ce5aa-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771740835280006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Тверской-Ямской слободы\"\", кон. XVI- нач. XVIII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623788"
+  },
+  {
+    "AISID": "da899e57-44b1-11e8-ac6f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Красная Пахра (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623791"
+  },
+  {
+    "AISID": "db54eb7a-d577-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Русино 5 (XV-XVI вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623792"
+  },
+  {
+    "AISID": "de7cf72e-d3e1-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Сатино-Татарское 1В (XIII-XV вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623793"
+  },
+  {
+    "AISID": "df09ecdf-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771741198590026",
+    "ObjectNameOnDoc": "Село Спас, XVI-XIX вв. - \"\"Пруд–копань\"\", XVI–XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623794"
+  },
+  {
+    "AISID": "df09ed96-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981230006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Воротниковской старой слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623797"
+  },
+  {
+    "AISID": "df09edaa-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984640006",
+    "ObjectNameOnDoc": "Село Сущево (место древнего поселения с зоной культурного слоя), XV-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623798"
+  },
+  {
+    "AISID": "df09edb7-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Спасской слободы\"\", XVII в. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623799"
+  },
+  {
+    "AISID": "df09edb9-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981770006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Казачьей слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623800"
+  },
+  {
+    "AISID": "df09ee61-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984630006",
+    "ObjectNameOnDoc": "Село Свиблово (место древнего поселения с зоной культурного слоя), XVI-XVIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623802"
+  },
+  {
+    "AISID": "df09ee62-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441199660006",
+    "ObjectNameOnDoc": "Селище Каменная плотина (зона культурного слоя), XV-XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623803"
+  },
+  {
+    "AISID": "e096b9bb-33d6-11e6-b786-005056806bb6",
+    "USRCHONumber": "772241362580006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник Ясенево 2\"\", XII-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623804"
+  },
+  {
+    "AISID": "e10b2482-ee0c-11e6-809a-005056806bb6",
+    "USRCHONumber": "772341379760006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник Давыдково\"\", XI-XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623805"
+  },
+  {
+    "AISID": "e3ea2002-d572-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Русино 4 (XV-XVI вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623806"
+  },
+  {
+    "AISID": "e55c6c03-32c9-11e6-b786-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Курганный могильник Бирюлево",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623807"
+  },
+  {
+    "AISID": "e5ccd88d-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981480006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Барашевской слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623808"
+  },
+  {
+    "AISID": "e5ccd948-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984530006",
+    "ObjectNameOnDoc": "Село Семцинское (место древнего поселения с зоной культурного слоя), XIV-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623809"
+  },
+  {
+    "AISID": "e5ccd94f-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835170006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Кожевнической слободы\"\", XVI-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623810"
+  },
+  {
+    "AISID": "e5ccd9a7-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440837940006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Немецкой слободы\"\", XVI-XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623811"
+  },
+  {
+    "AISID": "e5ccd9c0-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Трехкамерный грот, 1807-1809 гг.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623812"
+  },
+  {
+    "AISID": "e5ccd9c4-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Камер-юнгфарский корпус, 1779-1794 гг.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623813"
+  },
+  {
+    "AISID": "e77566d2-e491-11e7-9c1f-005056806bb6",
+    "USRCHONumber": "772341375210006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник \"\"Пучково 1\"\", XII–ХIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623814"
+  },
+  {
+    "AISID": "e98b82e8-1e26-11e8-9e37-005056806bb6",
+    "USRCHONumber": "772341375200006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник \"\"Малое Голубино 2\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623815"
+  },
+  {
+    "AISID": "ea068583-3ebb-11e7-a3bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Ильино 1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623816"
+  },
+  {
+    "AISID": "ebdf5567-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198380006",
+    "ObjectNameOnDoc": "2-е Митинское селище, XVI-XVII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623817"
+  },
+  {
+    "AISID": "ebdf561d-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981500006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Овчинной слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623819"
+  },
+  {
+    "AISID": "ebdf5656-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771740984560006",
+    "ObjectNameOnDoc": "Село Медведково (место древнего поселения с зоной культурного слоя), XVI-XVIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623820"
+  },
+  {
+    "AISID": "ebdf5696-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Арбатец слободы\"\", XVII - нач. XVIII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623822"
+  },
+  {
+    "AISID": "ebdf56da-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771640668730006",
+    "ObjectNameOnDoc": "Селище 2-ое у Ленинских гор (верхнее), I-III вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623823"
+  },
+  {
+    "AISID": "ebdf56db-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835180006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Мещанской слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623824"
+  },
+  {
+    "AISID": "ebdf56eb-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984600006",
+    "ObjectNameOnDoc": "Село Покровское-Рубцово (место древнего поселения с зоной культурного слоя), XVII в. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623825"
+  },
+  {
+    "AISID": "ebdf56f7-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Большой Кавалерский корпус, 1779-1794 гг.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623826"
+  },
+  {
+    "AISID": "edb4daca-5b05-11e7-9639-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Курганный могильник \"\"Лосиный остров-1\"\"",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623827"
+  },
+  {
+    "AISID": "f266a5f8-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198320006",
+    "ObjectNameOnDoc": "Селище при 2-м Спас-Тушинском городище, I тыс. до н.э.- I тыс. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623828"
+  },
+  {
+    "AISID": "f266a636-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981850006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Тушинского лагеря Лжедмитрия II\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623829"
+  },
+  {
+    "AISID": "f266a65f-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441212170006",
+    "ObjectNameOnDoc": "Красный пруд (конструкции средневекового водоема), XV-XVIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623830"
+  },
+  {
+    "AISID": "f266a672-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441198470006",
+    "ObjectNameOnDoc": "Грунтовый могильник при Спасском на Всходне монастыре, XIV-XIX вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623831"
+  },
+  {
+    "AISID": "f90e0a18-3eb6-11e7-a3bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Рязаново 4",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623832"
+  },
+  {
+    "AISID": "f96f1d03-d573-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Юрово 3 (XV-XVI вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623833"
+  },
+  {
+    "AISID": "fa1f3c96-3eba-11e7-a3bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Рогово 1\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623834"
+  },
+  {
+    "AISID": "fb91709f-32c8-11e6-b786-005056806bb6",
+    "USRCHONumber": "772341374820006",
+    "ObjectNameOnDoc": "\"\"Курганный могильник Коньково 5\"\", XI–XIII вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623835"
+  },
+  {
+    "AISID": "fc766558-d57e-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Спас-Купля 2 (XVI-XVIII вв.) (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623836"
+  },
+  {
+    "AISID": "fe8e4116-1247-11e8-9c1f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Сад при Государевом дворе, южная часть (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623837"
+  },
+  {
+    "AISID": "ff20fd1a-33f5-11e8-ac6f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище Остафьево 5 (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2608623838"
+  },
+  {
+    "AISID": "61f01e5c-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Деснинские курганы. Группа № 2",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609037448"
+  },
+  {
+    "AISID": "67f1eb2b-c93f-11e3-af6a-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Селище \"\"Десна-3\"\" (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609037551"
+  },
+  {
+    "AISID": "8ce306a8-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441211600006",
+    "ObjectNameOnDoc": "Подземные конструкции и остатки укреплений \"\"Китай-города\"\", XII-XIX вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609038166"
+  },
+  {
+    "AISID": "931946f4-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Городище на Самотеке\"\", XI-XVII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609038354"
+  },
+  {
+    "AISID": "9fbc9def-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981860006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Шаболовской слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609038740"
+  },
+  {
+    "AISID": "abed83d6-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835230006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Ружейной слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609039128"
+  },
+  {
+    "AISID": "abed8525-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981550006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Плотничьей слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609039185"
+  },
+  {
+    "AISID": "b249eb44-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981600006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Дворцовых слобод\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609039364"
+  },
+  {
+    "AISID": "b5dc5ffa-d3dc-11e5-87bd-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Поселение Рыбино 1 (I тыс. до н.э., XII-XIII вв.)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609039461"
+  },
+  {
+    "AISID": "d25d0d4e-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981700006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Чудовой слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609039929"
+  },
+  {
+    "AISID": "d90ce584-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835130006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Воздвиженской слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609040030"
+  },
+  {
+    "AISID": "d90ce5af-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771441199610006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Китай-города\"\", XI-XVIII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609040102"
+  },
+  {
+    "AISID": "d90ce5fc-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Крутицкой слободы\"\", XVII-XVIII вв. н.э. (достопримечательное место)",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "выявленный объект культурного наследия",
+    "Category": "категория не устанавливается",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609040113"
+  },
+  {
+    "AISID": "df09ecf6-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981830006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Села Три горы\"\", XV-XVI вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609040129"
+  },
+  {
+    "AISID": "df09ed5e-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440835070006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Сыромятнической слободы\"\", XVI-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609040147"
+  },
+  {
+    "AISID": "df09edfa-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981670006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Рождественской слободы\"\", XV-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609040230"
+  },
+  {
+    "AISID": "ebdf560a-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981570006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Гавриловской слободы\"\", XVII в. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2609040431"
+  },
+  {
+    "AISID": "cbfe4527-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440984500006",
+    "ObjectNameOnDoc": "Село Хлыново (место древнего поселения с зоной культурного слоя), XV-XVI вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2620125297"
+  },
+  {
+    "AISID": "ebdf5677-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771741307770006",
+    "ObjectNameOnDoc": "\"\"Территория культурного слоя Московского Кремля, кон. XI–XVIII вв. н.э.\"\"",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2620125298"
+  },
+  {
+    "AISID": "88f1d565-5564-11e5-a6f6-005056806bb6",
+    "USRCHONumber": "771741198590006",
+    "ObjectNameOnDoc": "Село Спас, XVI-XIX вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2622020131"
+  },
+  {
+    "AISID": "3d4b5885-1039-11e5-93de-005056806bb6",
+    "USRCHONumber": "771741214710006",
+    "ObjectNameOnDoc": "Дер. Пенягино. XVI-XIX вв.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2622020135"
+  },
+  {
+    "AISID": "e531514e-7a59-11ec-9efe-005056806bb6",
+    "USRCHONumber": "771640658110006",
+    "ObjectNameOnDoc": "\"\"Царицынские курганы, (группы 2, 3, 4, 5, 6), XI – XIII вв. н.э.\"\"",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2622020347"
+  },
+  {
+    "AISID": "d90ce595-56f9-11e2-965f-005056806bb6",
+    "USRCHONumber": "771440981780006",
+    "ObjectNameOnDoc": "Территория культурного слоя \"\"Казенной слободы\"\", XVI-XVII вв. н.э.",
+    "EnsemblyNameOnDoc": "",
+    "SecurityStatus": "объект культурного наследия",
+    "Category": "федерального значения",
+    "ObjectType": "Объект археологии",
+    "global_id": "2622021735"
+  }
+]
